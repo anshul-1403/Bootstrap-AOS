@@ -13,8 +13,20 @@ h1{
     min-width:60%;
     max-height:300px;
 }
+.navbar-nav .nav-item {
+        margin: 0.5rem 0;
+      }
+
+      .navbar-toggler {
+        border: none;
+      }
+
+      .navbar-brand {
+        font-size: 1.5rem;
+      }
 @media (max-width: 768px) {
   [data-aos] {
     transform: none !important;
   }
 }
+
