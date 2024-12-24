@@ -13,3 +13,10 @@ h1{
     min-width:60%;
     max-height:300px;
 }
+.navbar {
+  width: 100%;
+}
+.navbar-nav {
+  margin: 0;
+  padding: 0;
+}
