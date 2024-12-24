@@ -24,9 +24,4 @@ h1{
       .navbar-brand {
         font-size: 1.5rem;
       }
-@media (max-width: 768px) {
-  [data-aos] {
-    transform: none !important;
-  }
-}
 
